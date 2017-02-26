@@ -1,0 +1,6 @@
+{
+    "name" : "alistair todo app",
+    "description": "a todo application to keep track of your life",
+    "repository": "git@github.com:AlistairCovey/node-js-todo"
+
+}
