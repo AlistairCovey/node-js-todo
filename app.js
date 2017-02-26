@@ -15,5 +15,5 @@ todoController(app);
 
 
 //listening to a port
-// app.listen(3000);
-// console.log('you are listening to port 3000');
+app.listen(http.address().port);
+console.log('you are listening to port 3000');
